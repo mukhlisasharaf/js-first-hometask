@@ -42,3 +42,13 @@ if(a >= 0 || b < -2) {
 } else {
   console.log(false)
 } */
+
+/* 6-masala
+let a = +prompt("son1: ")
+let b = +prompt("son2: ")
+let c = +prompt("son3: ")
+if(a <= b && b <= c) {
+  console.log(true)
+} else {
+  console.log(false)
+} */
