@@ -26,13 +26,19 @@ if(a % 2 == 0) {
 } */
 
 /* 4-masala 
-const a = +prompt("1-son: ");
-const b = +prompt("2-son: ");
+const a = +prompt("son1: ")
+const b = +prompt("son2: ")
 if(a > 2 && b <= 3) {
-  console.log(true);
+  console.log(true)
 } else {
-  console.log(false);
-}; */
+  console.log(false)
+} */
 
-/* 5-masala */
- 
+/* 5-masala 
+const a = +prompt("son1: ")
+const b = +prompt("son2: ")
+if(a >= 0 || b < -2) {
+  console.log(true)
+} else {
+  console.log(false)
+} */
